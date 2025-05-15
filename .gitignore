@@ -1,1 +1,27 @@
-**/.ipynb_checkpoints/
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+.env/
+
+# Jupyter Notebook metadata
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Data
+*.csv
+*.parquet
+
+# Streamlit
+.streamlit/config.toml
